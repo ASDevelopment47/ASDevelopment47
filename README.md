@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @ASDevelopment47
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🔧 AS Development | RedM Server Rentals & Configurations
 
-<!---
-ASDevelopment47/ASDevelopment47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+We offer fully configured RedM roleplay servers based on the VORP Framework, featuring high-quality paid scripts from trusted creators like Syn, Outsider, Jump On Studio, and SireVLC.
+
+💡 What We Provide:
+
+Pre-configured servers with premium scripts
+
+Affordable monthly rentals — no upfront script costs
+
+Plug-and-play setup for instant RP deployment
+
+Ideal for communities, streamers, and content creators
+
+🚀 Start your server. Skip the setup.
+
+📌 Join us for previews, support, and rentals:
+🌐 Discord: https://discord.gg/pjnqnffAGS
